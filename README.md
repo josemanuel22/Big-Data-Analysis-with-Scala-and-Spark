@@ -12,3 +12,8 @@ Processing Wikipedia Data to rank programming language words such as scala,etc.
 Kmeans Clustering on Stackoverflow Data using Spark Scala.
 [Data stackoverflow.csv](http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv)
 
+## timeusage (week4)
+
+Spark SQL Analysis of American Time Use Survey
+The dataset [atussum.csv](https://www.kaggle.com/bls/american-time-use-survey/data) is provided by Kaggle.
+
